@@ -1,8 +1,0 @@
-Health: 20
-Mana: 50
-Strength: 10
-Dexterity: 25
-Quests completed: 0
-Won fights: 0
-Village visited: 0
-Teleport points unlocked: 0
